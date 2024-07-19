@@ -1,10 +1,28 @@
 body {
     background-color: black;
     font-family: Open Sans, sans-serif;
+    padding: 0px;
+    margin: 0px;
 }
 
+/* <!-- navbar --> */
+
+/* <!-- carousel -->  */
+.carouselExample{
+    height: 100%;
+    border: 0px;
+}
+
+/* <!-- texto --> */
+
+.flex-container{
+    display: flex;
+    text-align: left;
+}
 
 /* <!-- seccion tarjetas --> */
 .bg-tarjetas {
     background-color: #17A2B8;
 }
+
+/* <!-- formulario --> */
