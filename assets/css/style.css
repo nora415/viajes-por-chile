@@ -5,7 +5,13 @@ body {
     margin: 0px;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 /* <!-- navbar --> */
+
+
 
 /* <!-- carousel -->  */
 .carouselExample{
@@ -22,7 +28,9 @@ body {
 
 /* <!-- seccion tarjetas --> */
 .bg-tarjetas {
-    background-color: #17A2B8;
+    background-color: #034481;
 }
-
 /* <!-- formulario --> */
+
+
+
